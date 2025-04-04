@@ -1,6 +1,6 @@
 # Image Optimizer
 
-A retro-styled image optimization tool built with Python and Tkinter. Resize and compress images for web use with a Winamp-era aesthetic.
+A retro-styled image optimization tool built with Python and Tkinter. Resize and compress images for web use.
 
 ## Features
 
